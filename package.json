@@ -1,6 +1,6 @@
 {
   "name": "dpm-snowpack-init",
-  "version": "3.0.6",
+  "version": "3.0.7",
   "description": "Bootstrap a Snowpack application without the hassle!",
   "scripts": {
     "prettier": "prettier --write **/*.{js,ts,tsx,json,css,scss,md,yml}",
