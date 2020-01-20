@@ -1,5 +1,5 @@
 {
-  "name": "snowpack-init",
+  "name": "dpm-snowpack-init",
   "version": "3.0.1",
   "description": "Bootstrap a Snowpack application without the hassle!",
   "scripts": {
